@@ -1,0 +1,3 @@
+D:/github/spatial-partitioning/build/CMakeFiles/edit_cache.dir
+D:/github/spatial-partitioning/build/CMakeFiles/spatial-partitioning.dir
+D:/github/spatial-partitioning/build/CMakeFiles/rebuild_cache.dir
